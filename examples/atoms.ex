@@ -46,4 +46,9 @@ defmodule Atoms do
         end
     end
 
+    """
+    Tuples are used when we know how many elements we have for the data structure.
+
+    """
+
 end
