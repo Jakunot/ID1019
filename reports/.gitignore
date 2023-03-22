@@ -1,0 +1,7 @@
+# Ignore report folder
+
+*
+!.gitignore
+
+#the * tells git to ignore all files in the folder, but !.gitignore tells 
+#git to still include the .gitignore file.
